@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"google.golang.org/grpc/metadata"
 	"google.golang.org/grpc/status"
-	"grpcall"
+	"github.com/blastbao/grpcall"
 )
 
 func main() {
